@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "OtrFmfvGFKQ6eG3Y15bBFCFHBWbJpJ8FnxCsyuSCmQExgHUz217ZyXsC+DS0w8bqHcmVmcLztMmxXCmWNFn1rw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Jose\\OneDrive - uniminuto.edu\\Documentos\\Aplicaciones\\Aprender\\pruebaminsalud\\Presenters\\Presenters.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Jose\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\7.0.0\\microsoft.extensions.dependencyinjection.abstractions.7.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}
