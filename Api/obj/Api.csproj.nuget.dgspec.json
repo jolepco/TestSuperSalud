@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Jose\\OneDrive - uniminuto.edu\\Documentos\\Aplicaciones\\Aprender\\pruebaminsalud\\Api\\Api.csproj": {}
+    "C:\\Users\\Jose\\OneDrive - uniminuto.edu\\Documentos\\Aplicaciones\\Aprender\\supersalud\\TestSuperSalud\\Api\\Api.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Jose\\OneDrive - uniminuto.edu\\Documentos\\Aplicaciones\\Aprender\\pruebaminsalud\\Api\\Api.csproj": {
+    "C:\\Users\\Jose\\OneDrive - uniminuto.edu\\Documentos\\Aplicaciones\\Aprender\\supersalud\\TestSuperSalud\\Api\\Api.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Jose\\OneDrive - uniminuto.edu\\Documentos\\Aplicaciones\\Aprender\\pruebaminsalud\\Api\\Api.csproj",
+        "projectUniqueName": "C:\\Users\\Jose\\OneDrive - uniminuto.edu\\Documentos\\Aplicaciones\\Aprender\\supersalud\\TestSuperSalud\\Api\\Api.csproj",
         "projectName": "Api",
-        "projectPath": "C:\\Users\\Jose\\OneDrive - uniminuto.edu\\Documentos\\Aplicaciones\\Aprender\\pruebaminsalud\\Api\\Api.csproj",
+        "projectPath": "C:\\Users\\Jose\\OneDrive - uniminuto.edu\\Documentos\\Aplicaciones\\Aprender\\supersalud\\TestSuperSalud\\Api\\Api.csproj",
         "packagesPath": "C:\\Users\\Jose\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Jose\\OneDrive - uniminuto.edu\\Documentos\\Aplicaciones\\Aprender\\pruebaminsalud\\Api\\obj\\",
+        "outputPath": "C:\\Users\\Jose\\OneDrive - uniminuto.edu\\Documentos\\Aplicaciones\\Aprender\\supersalud\\TestSuperSalud\\Api\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -34,11 +34,11 @@
           "net7.0": {
             "targetAlias": "net7.0",
             "projectReferences": {
-              "C:\\Users\\Jose\\OneDrive - uniminuto.edu\\Documentos\\Aplicaciones\\Aprender\\pruebaminsalud\\COntrollers\\Controllers.csproj": {
-                "projectPath": "C:\\Users\\Jose\\OneDrive - uniminuto.edu\\Documentos\\Aplicaciones\\Aprender\\pruebaminsalud\\COntrollers\\Controllers.csproj"
+              "C:\\Users\\Jose\\OneDrive - uniminuto.edu\\Documentos\\Aplicaciones\\Aprender\\supersalud\\TestSuperSalud\\COntrollers\\Controllers.csproj": {
+                "projectPath": "C:\\Users\\Jose\\OneDrive - uniminuto.edu\\Documentos\\Aplicaciones\\Aprender\\supersalud\\TestSuperSalud\\COntrollers\\Controllers.csproj"
               },
-              "C:\\Users\\Jose\\OneDrive - uniminuto.edu\\Documentos\\Aplicaciones\\Aprender\\pruebaminsalud\\IoC\\IoC.csproj": {
-                "projectPath": "C:\\Users\\Jose\\OneDrive - uniminuto.edu\\Documentos\\Aplicaciones\\Aprender\\pruebaminsalud\\IoC\\IoC.csproj"
+              "C:\\Users\\Jose\\OneDrive - uniminuto.edu\\Documentos\\Aplicaciones\\Aprender\\supersalud\\TestSuperSalud\\IoC\\IoC.csproj": {
+                "projectPath": "C:\\Users\\Jose\\OneDrive - uniminuto.edu\\Documentos\\Aplicaciones\\Aprender\\supersalud\\TestSuperSalud\\IoC\\IoC.csproj"
               }
             }
           }
@@ -85,14 +85,14 @@
         }
       }
     },
-    "C:\\Users\\Jose\\OneDrive - uniminuto.edu\\Documentos\\Aplicaciones\\Aprender\\pruebaminsalud\\COntrollers\\Controllers.csproj": {
+    "C:\\Users\\Jose\\OneDrive - uniminuto.edu\\Documentos\\Aplicaciones\\Aprender\\supersalud\\TestSuperSalud\\COntrollers\\Controllers.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Jose\\OneDrive - uniminuto.edu\\Documentos\\Aplicaciones\\Aprender\\pruebaminsalud\\COntrollers\\Controllers.csproj",
+        "projectUniqueName": "C:\\Users\\Jose\\OneDrive - uniminuto.edu\\Documentos\\Aplicaciones\\Aprender\\supersalud\\TestSuperSalud\\COntrollers\\Controllers.csproj",
         "projectName": "Controllers",
-        "projectPath": "C:\\Users\\Jose\\OneDrive - uniminuto.edu\\Documentos\\Aplicaciones\\Aprender\\pruebaminsalud\\COntrollers\\Controllers.csproj",
+        "projectPath": "C:\\Users\\Jose\\OneDrive - uniminuto.edu\\Documentos\\Aplicaciones\\Aprender\\supersalud\\TestSuperSalud\\COntrollers\\Controllers.csproj",
         "packagesPath": "C:\\Users\\Jose\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Jose\\OneDrive - uniminuto.edu\\Documentos\\Aplicaciones\\Aprender\\pruebaminsalud\\COntrollers\\obj\\",
+        "outputPath": "C:\\Users\\Jose\\OneDrive - uniminuto.edu\\Documentos\\Aplicaciones\\Aprender\\supersalud\\TestSuperSalud\\COntrollers\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -114,11 +114,11 @@
           "net7.0": {
             "targetAlias": "net7.0",
             "projectReferences": {
-              "C:\\Users\\Jose\\OneDrive - uniminuto.edu\\Documentos\\Aplicaciones\\Aprender\\pruebaminsalud\\Presenters\\Presenters.csproj": {
-                "projectPath": "C:\\Users\\Jose\\OneDrive - uniminuto.edu\\Documentos\\Aplicaciones\\Aprender\\pruebaminsalud\\Presenters\\Presenters.csproj"
+              "C:\\Users\\Jose\\OneDrive - uniminuto.edu\\Documentos\\Aplicaciones\\Aprender\\supersalud\\TestSuperSalud\\Presenters\\Presenters.csproj": {
+                "projectPath": "C:\\Users\\Jose\\OneDrive - uniminuto.edu\\Documentos\\Aplicaciones\\Aprender\\supersalud\\TestSuperSalud\\Presenters\\Presenters.csproj"
               },
-              "C:\\Users\\Jose\\OneDrive - uniminuto.edu\\Documentos\\Aplicaciones\\Aprender\\pruebaminsalud\\UseCasePorts\\UseCasePorts.csproj": {
-                "projectPath": "C:\\Users\\Jose\\OneDrive - uniminuto.edu\\Documentos\\Aplicaciones\\Aprender\\pruebaminsalud\\UseCasePorts\\UseCasePorts.csproj"
+              "C:\\Users\\Jose\\OneDrive - uniminuto.edu\\Documentos\\Aplicaciones\\Aprender\\supersalud\\TestSuperSalud\\UseCasePorts\\UseCasePorts.csproj": {
+                "projectPath": "C:\\Users\\Jose\\OneDrive - uniminuto.edu\\Documentos\\Aplicaciones\\Aprender\\supersalud\\TestSuperSalud\\UseCasePorts\\UseCasePorts.csproj"
               }
             }
           }
@@ -158,14 +158,14 @@
         }
       }
     },
-    "C:\\Users\\Jose\\OneDrive - uniminuto.edu\\Documentos\\Aplicaciones\\Aprender\\pruebaminsalud\\DTOs\\DTOs.csproj": {
+    "C:\\Users\\Jose\\OneDrive - uniminuto.edu\\Documentos\\Aplicaciones\\Aprender\\supersalud\\TestSuperSalud\\DTOs\\DTOs.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Jose\\OneDrive - uniminuto.edu\\Documentos\\Aplicaciones\\Aprender\\pruebaminsalud\\DTOs\\DTOs.csproj",
+        "projectUniqueName": "C:\\Users\\Jose\\OneDrive - uniminuto.edu\\Documentos\\Aplicaciones\\Aprender\\supersalud\\TestSuperSalud\\DTOs\\DTOs.csproj",
         "projectName": "DTOs",
-        "projectPath": "C:\\Users\\Jose\\OneDrive - uniminuto.edu\\Documentos\\Aplicaciones\\Aprender\\pruebaminsalud\\DTOs\\DTOs.csproj",
+        "projectPath": "C:\\Users\\Jose\\OneDrive - uniminuto.edu\\Documentos\\Aplicaciones\\Aprender\\supersalud\\TestSuperSalud\\DTOs\\DTOs.csproj",
         "packagesPath": "C:\\Users\\Jose\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Jose\\OneDrive - uniminuto.edu\\Documentos\\Aplicaciones\\Aprender\\pruebaminsalud\\DTOs\\obj\\",
+        "outputPath": "C:\\Users\\Jose\\OneDrive - uniminuto.edu\\Documentos\\Aplicaciones\\Aprender\\supersalud\\TestSuperSalud\\DTOs\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -218,14 +218,14 @@
         }
       }
     },
-    "C:\\Users\\Jose\\OneDrive - uniminuto.edu\\Documentos\\Aplicaciones\\Aprender\\pruebaminsalud\\Entities\\Entities.csproj": {
+    "C:\\Users\\Jose\\OneDrive - uniminuto.edu\\Documentos\\Aplicaciones\\Aprender\\supersalud\\TestSuperSalud\\Entities\\Entities.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Jose\\OneDrive - uniminuto.edu\\Documentos\\Aplicaciones\\Aprender\\pruebaminsalud\\Entities\\Entities.csproj",
+        "projectUniqueName": "C:\\Users\\Jose\\OneDrive - uniminuto.edu\\Documentos\\Aplicaciones\\Aprender\\supersalud\\TestSuperSalud\\Entities\\Entities.csproj",
         "projectName": "Entities",
-        "projectPath": "C:\\Users\\Jose\\OneDrive - uniminuto.edu\\Documentos\\Aplicaciones\\Aprender\\pruebaminsalud\\Entities\\Entities.csproj",
+        "projectPath": "C:\\Users\\Jose\\OneDrive - uniminuto.edu\\Documentos\\Aplicaciones\\Aprender\\supersalud\\TestSuperSalud\\Entities\\Entities.csproj",
         "packagesPath": "C:\\Users\\Jose\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Jose\\OneDrive - uniminuto.edu\\Documentos\\Aplicaciones\\Aprender\\pruebaminsalud\\Entities\\obj\\",
+        "outputPath": "C:\\Users\\Jose\\OneDrive - uniminuto.edu\\Documentos\\Aplicaciones\\Aprender\\supersalud\\TestSuperSalud\\Entities\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -278,14 +278,14 @@
         }
       }
     },
-    "C:\\Users\\Jose\\OneDrive - uniminuto.edu\\Documentos\\Aplicaciones\\Aprender\\pruebaminsalud\\IoC\\IoC.csproj": {
+    "C:\\Users\\Jose\\OneDrive - uniminuto.edu\\Documentos\\Aplicaciones\\Aprender\\supersalud\\TestSuperSalud\\IoC\\IoC.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Jose\\OneDrive - uniminuto.edu\\Documentos\\Aplicaciones\\Aprender\\pruebaminsalud\\IoC\\IoC.csproj",
+        "projectUniqueName": "C:\\Users\\Jose\\OneDrive - uniminuto.edu\\Documentos\\Aplicaciones\\Aprender\\supersalud\\TestSuperSalud\\IoC\\IoC.csproj",
         "projectName": "IoC",
-        "projectPath": "C:\\Users\\Jose\\OneDrive - uniminuto.edu\\Documentos\\Aplicaciones\\Aprender\\pruebaminsalud\\IoC\\IoC.csproj",
+        "projectPath": "C:\\Users\\Jose\\OneDrive - uniminuto.edu\\Documentos\\Aplicaciones\\Aprender\\supersalud\\TestSuperSalud\\IoC\\IoC.csproj",
         "packagesPath": "C:\\Users\\Jose\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Jose\\OneDrive - uniminuto.edu\\Documentos\\Aplicaciones\\Aprender\\pruebaminsalud\\IoC\\obj\\",
+        "outputPath": "C:\\Users\\Jose\\OneDrive - uniminuto.edu\\Documentos\\Aplicaciones\\Aprender\\supersalud\\TestSuperSalud\\IoC\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -307,14 +307,14 @@
           "net7.0": {
             "targetAlias": "net7.0",
             "projectReferences": {
-              "C:\\Users\\Jose\\OneDrive - uniminuto.edu\\Documentos\\Aplicaciones\\Aprender\\pruebaminsalud\\Presenters\\Presenters.csproj": {
-                "projectPath": "C:\\Users\\Jose\\OneDrive - uniminuto.edu\\Documentos\\Aplicaciones\\Aprender\\pruebaminsalud\\Presenters\\Presenters.csproj"
+              "C:\\Users\\Jose\\OneDrive - uniminuto.edu\\Documentos\\Aplicaciones\\Aprender\\supersalud\\TestSuperSalud\\Presenters\\Presenters.csproj": {
+                "projectPath": "C:\\Users\\Jose\\OneDrive - uniminuto.edu\\Documentos\\Aplicaciones\\Aprender\\supersalud\\TestSuperSalud\\Presenters\\Presenters.csproj"
               },
-              "C:\\Users\\Jose\\OneDrive - uniminuto.edu\\Documentos\\Aplicaciones\\Aprender\\pruebaminsalud\\RepositoryEFCore\\RepositoryEFCore.csproj": {
-                "projectPath": "C:\\Users\\Jose\\OneDrive - uniminuto.edu\\Documentos\\Aplicaciones\\Aprender\\pruebaminsalud\\RepositoryEFCore\\RepositoryEFCore.csproj"
+              "C:\\Users\\Jose\\OneDrive - uniminuto.edu\\Documentos\\Aplicaciones\\Aprender\\supersalud\\TestSuperSalud\\RepositoryEFCore\\RepositoryEFCore.csproj": {
+                "projectPath": "C:\\Users\\Jose\\OneDrive - uniminuto.edu\\Documentos\\Aplicaciones\\Aprender\\supersalud\\TestSuperSalud\\RepositoryEFCore\\RepositoryEFCore.csproj"
               },
-              "C:\\Users\\Jose\\OneDrive - uniminuto.edu\\Documentos\\Aplicaciones\\Aprender\\pruebaminsalud\\UseCases\\UseCases.csproj": {
-                "projectPath": "C:\\Users\\Jose\\OneDrive - uniminuto.edu\\Documentos\\Aplicaciones\\Aprender\\pruebaminsalud\\UseCases\\UseCases.csproj"
+              "C:\\Users\\Jose\\OneDrive - uniminuto.edu\\Documentos\\Aplicaciones\\Aprender\\supersalud\\TestSuperSalud\\UseCases\\UseCases.csproj": {
+                "projectPath": "C:\\Users\\Jose\\OneDrive - uniminuto.edu\\Documentos\\Aplicaciones\\Aprender\\supersalud\\TestSuperSalud\\UseCases\\UseCases.csproj"
               }
             }
           }
@@ -348,14 +348,14 @@
         }
       }
     },
-    "C:\\Users\\Jose\\OneDrive - uniminuto.edu\\Documentos\\Aplicaciones\\Aprender\\pruebaminsalud\\Presenters\\Presenters.csproj": {
+    "C:\\Users\\Jose\\OneDrive - uniminuto.edu\\Documentos\\Aplicaciones\\Aprender\\supersalud\\TestSuperSalud\\Presenters\\Presenters.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Jose\\OneDrive - uniminuto.edu\\Documentos\\Aplicaciones\\Aprender\\pruebaminsalud\\Presenters\\Presenters.csproj",
+        "projectUniqueName": "C:\\Users\\Jose\\OneDrive - uniminuto.edu\\Documentos\\Aplicaciones\\Aprender\\supersalud\\TestSuperSalud\\Presenters\\Presenters.csproj",
         "projectName": "Presenters",
-        "projectPath": "C:\\Users\\Jose\\OneDrive - uniminuto.edu\\Documentos\\Aplicaciones\\Aprender\\pruebaminsalud\\Presenters\\Presenters.csproj",
+        "projectPath": "C:\\Users\\Jose\\OneDrive - uniminuto.edu\\Documentos\\Aplicaciones\\Aprender\\supersalud\\TestSuperSalud\\Presenters\\Presenters.csproj",
         "packagesPath": "C:\\Users\\Jose\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Jose\\OneDrive - uniminuto.edu\\Documentos\\Aplicaciones\\Aprender\\pruebaminsalud\\Presenters\\obj\\",
+        "outputPath": "C:\\Users\\Jose\\OneDrive - uniminuto.edu\\Documentos\\Aplicaciones\\Aprender\\supersalud\\TestSuperSalud\\Presenters\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -377,8 +377,8 @@
           "net7.0": {
             "targetAlias": "net7.0",
             "projectReferences": {
-              "C:\\Users\\Jose\\OneDrive - uniminuto.edu\\Documentos\\Aplicaciones\\Aprender\\pruebaminsalud\\UseCasePorts\\UseCasePorts.csproj": {
-                "projectPath": "C:\\Users\\Jose\\OneDrive - uniminuto.edu\\Documentos\\Aplicaciones\\Aprender\\pruebaminsalud\\UseCasePorts\\UseCasePorts.csproj"
+              "C:\\Users\\Jose\\OneDrive - uniminuto.edu\\Documentos\\Aplicaciones\\Aprender\\supersalud\\TestSuperSalud\\UseCasePorts\\UseCasePorts.csproj": {
+                "projectPath": "C:\\Users\\Jose\\OneDrive - uniminuto.edu\\Documentos\\Aplicaciones\\Aprender\\supersalud\\TestSuperSalud\\UseCasePorts\\UseCasePorts.csproj"
               }
             }
           }
@@ -418,14 +418,14 @@
         }
       }
     },
-    "C:\\Users\\Jose\\OneDrive - uniminuto.edu\\Documentos\\Aplicaciones\\Aprender\\pruebaminsalud\\RepositoryEFCore\\RepositoryEFCore.csproj": {
+    "C:\\Users\\Jose\\OneDrive - uniminuto.edu\\Documentos\\Aplicaciones\\Aprender\\supersalud\\TestSuperSalud\\RepositoryEFCore\\RepositoryEFCore.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Jose\\OneDrive - uniminuto.edu\\Documentos\\Aplicaciones\\Aprender\\pruebaminsalud\\RepositoryEFCore\\RepositoryEFCore.csproj",
+        "projectUniqueName": "C:\\Users\\Jose\\OneDrive - uniminuto.edu\\Documentos\\Aplicaciones\\Aprender\\supersalud\\TestSuperSalud\\RepositoryEFCore\\RepositoryEFCore.csproj",
         "projectName": "RepositoryEFCore",
-        "projectPath": "C:\\Users\\Jose\\OneDrive - uniminuto.edu\\Documentos\\Aplicaciones\\Aprender\\pruebaminsalud\\RepositoryEFCore\\RepositoryEFCore.csproj",
+        "projectPath": "C:\\Users\\Jose\\OneDrive - uniminuto.edu\\Documentos\\Aplicaciones\\Aprender\\supersalud\\TestSuperSalud\\RepositoryEFCore\\RepositoryEFCore.csproj",
         "packagesPath": "C:\\Users\\Jose\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Jose\\OneDrive - uniminuto.edu\\Documentos\\Aplicaciones\\Aprender\\pruebaminsalud\\RepositoryEFCore\\obj\\",
+        "outputPath": "C:\\Users\\Jose\\OneDrive - uniminuto.edu\\Documentos\\Aplicaciones\\Aprender\\supersalud\\TestSuperSalud\\RepositoryEFCore\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -447,8 +447,8 @@
           "net7.0": {
             "targetAlias": "net7.0",
             "projectReferences": {
-              "C:\\Users\\Jose\\OneDrive - uniminuto.edu\\Documentos\\Aplicaciones\\Aprender\\pruebaminsalud\\Entities\\Entities.csproj": {
-                "projectPath": "C:\\Users\\Jose\\OneDrive - uniminuto.edu\\Documentos\\Aplicaciones\\Aprender\\pruebaminsalud\\Entities\\Entities.csproj"
+              "C:\\Users\\Jose\\OneDrive - uniminuto.edu\\Documentos\\Aplicaciones\\Aprender\\supersalud\\TestSuperSalud\\Entities\\Entities.csproj": {
+                "projectPath": "C:\\Users\\Jose\\OneDrive - uniminuto.edu\\Documentos\\Aplicaciones\\Aprender\\supersalud\\TestSuperSalud\\Entities\\Entities.csproj"
               }
             }
           }
@@ -494,14 +494,14 @@
         }
       }
     },
-    "C:\\Users\\Jose\\OneDrive - uniminuto.edu\\Documentos\\Aplicaciones\\Aprender\\pruebaminsalud\\UseCasePorts\\UseCasePorts.csproj": {
+    "C:\\Users\\Jose\\OneDrive - uniminuto.edu\\Documentos\\Aplicaciones\\Aprender\\supersalud\\TestSuperSalud\\UseCasePorts\\UseCasePorts.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Jose\\OneDrive - uniminuto.edu\\Documentos\\Aplicaciones\\Aprender\\pruebaminsalud\\UseCasePorts\\UseCasePorts.csproj",
+        "projectUniqueName": "C:\\Users\\Jose\\OneDrive - uniminuto.edu\\Documentos\\Aplicaciones\\Aprender\\supersalud\\TestSuperSalud\\UseCasePorts\\UseCasePorts.csproj",
         "projectName": "UseCasePorts",
-        "projectPath": "C:\\Users\\Jose\\OneDrive - uniminuto.edu\\Documentos\\Aplicaciones\\Aprender\\pruebaminsalud\\UseCasePorts\\UseCasePorts.csproj",
+        "projectPath": "C:\\Users\\Jose\\OneDrive - uniminuto.edu\\Documentos\\Aplicaciones\\Aprender\\supersalud\\TestSuperSalud\\UseCasePorts\\UseCasePorts.csproj",
         "packagesPath": "C:\\Users\\Jose\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Jose\\OneDrive - uniminuto.edu\\Documentos\\Aplicaciones\\Aprender\\pruebaminsalud\\UseCasePorts\\obj\\",
+        "outputPath": "C:\\Users\\Jose\\OneDrive - uniminuto.edu\\Documentos\\Aplicaciones\\Aprender\\supersalud\\TestSuperSalud\\UseCasePorts\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -523,8 +523,8 @@
           "net7.0": {
             "targetAlias": "net7.0",
             "projectReferences": {
-              "C:\\Users\\Jose\\OneDrive - uniminuto.edu\\Documentos\\Aplicaciones\\Aprender\\pruebaminsalud\\DTOs\\DTOs.csproj": {
-                "projectPath": "C:\\Users\\Jose\\OneDrive - uniminuto.edu\\Documentos\\Aplicaciones\\Aprender\\pruebaminsalud\\DTOs\\DTOs.csproj"
+              "C:\\Users\\Jose\\OneDrive - uniminuto.edu\\Documentos\\Aplicaciones\\Aprender\\supersalud\\TestSuperSalud\\DTOs\\DTOs.csproj": {
+                "projectPath": "C:\\Users\\Jose\\OneDrive - uniminuto.edu\\Documentos\\Aplicaciones\\Aprender\\supersalud\\TestSuperSalud\\DTOs\\DTOs.csproj"
               }
             }
           }
@@ -558,14 +558,14 @@
         }
       }
     },
-    "C:\\Users\\Jose\\OneDrive - uniminuto.edu\\Documentos\\Aplicaciones\\Aprender\\pruebaminsalud\\UseCases\\UseCases.csproj": {
+    "C:\\Users\\Jose\\OneDrive - uniminuto.edu\\Documentos\\Aplicaciones\\Aprender\\supersalud\\TestSuperSalud\\UseCases\\UseCases.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Jose\\OneDrive - uniminuto.edu\\Documentos\\Aplicaciones\\Aprender\\pruebaminsalud\\UseCases\\UseCases.csproj",
+        "projectUniqueName": "C:\\Users\\Jose\\OneDrive - uniminuto.edu\\Documentos\\Aplicaciones\\Aprender\\supersalud\\TestSuperSalud\\UseCases\\UseCases.csproj",
         "projectName": "UseCases",
-        "projectPath": "C:\\Users\\Jose\\OneDrive - uniminuto.edu\\Documentos\\Aplicaciones\\Aprender\\pruebaminsalud\\UseCases\\UseCases.csproj",
+        "projectPath": "C:\\Users\\Jose\\OneDrive - uniminuto.edu\\Documentos\\Aplicaciones\\Aprender\\supersalud\\TestSuperSalud\\UseCases\\UseCases.csproj",
         "packagesPath": "C:\\Users\\Jose\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Jose\\OneDrive - uniminuto.edu\\Documentos\\Aplicaciones\\Aprender\\pruebaminsalud\\UseCases\\obj\\",
+        "outputPath": "C:\\Users\\Jose\\OneDrive - uniminuto.edu\\Documentos\\Aplicaciones\\Aprender\\supersalud\\TestSuperSalud\\UseCases\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -587,11 +587,11 @@
           "net7.0": {
             "targetAlias": "net7.0",
             "projectReferences": {
-              "C:\\Users\\Jose\\OneDrive - uniminuto.edu\\Documentos\\Aplicaciones\\Aprender\\pruebaminsalud\\Entities\\Entities.csproj": {
-                "projectPath": "C:\\Users\\Jose\\OneDrive - uniminuto.edu\\Documentos\\Aplicaciones\\Aprender\\pruebaminsalud\\Entities\\Entities.csproj"
+              "C:\\Users\\Jose\\OneDrive - uniminuto.edu\\Documentos\\Aplicaciones\\Aprender\\supersalud\\TestSuperSalud\\Entities\\Entities.csproj": {
+                "projectPath": "C:\\Users\\Jose\\OneDrive - uniminuto.edu\\Documentos\\Aplicaciones\\Aprender\\supersalud\\TestSuperSalud\\Entities\\Entities.csproj"
               },
-              "C:\\Users\\Jose\\OneDrive - uniminuto.edu\\Documentos\\Aplicaciones\\Aprender\\pruebaminsalud\\UseCasePorts\\UseCasePorts.csproj": {
-                "projectPath": "C:\\Users\\Jose\\OneDrive - uniminuto.edu\\Documentos\\Aplicaciones\\Aprender\\pruebaminsalud\\UseCasePorts\\UseCasePorts.csproj"
+              "C:\\Users\\Jose\\OneDrive - uniminuto.edu\\Documentos\\Aplicaciones\\Aprender\\supersalud\\TestSuperSalud\\UseCasePorts\\UseCasePorts.csproj": {
+                "projectPath": "C:\\Users\\Jose\\OneDrive - uniminuto.edu\\Documentos\\Aplicaciones\\Aprender\\supersalud\\TestSuperSalud\\UseCasePorts\\UseCasePorts.csproj"
               }
             }
           }

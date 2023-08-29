@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "pyPVW6D7k18AwELmy6yROSK/5ZxK+ORyv8ZxB2ZO/iP4GwI4D3NLJmSU083oeC421zg4nP6RUz8oQ21hugFeeQ==",
+  "dgSpecHash": "qCh5fqaPIzWGwh2K5BDTEU3xGk+NQy140uCdl8P6OY18jkYlgZA+qLaTmqgfktyeQD6I/maV0wGqr+wBemSJ1Q==",
   "success": true,
-  "projectFilePath": "C:\\Users\\Jose\\OneDrive - uniminuto.edu\\Documentos\\Aplicaciones\\Aprender\\pruebaminsalud\\COntrollers\\Controllers.csproj",
+  "projectFilePath": "C:\\Users\\Jose\\OneDrive - uniminuto.edu\\Documentos\\Aplicaciones\\Aprender\\supersalud\\TestSuperSalud\\COntrollers\\Controllers.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Jose\\.nuget\\packages\\microsoft.aspnetcore.authentication.abstractions\\2.2.0\\microsoft.aspnetcore.authentication.abstractions.2.2.0.nupkg.sha512",
     "C:\\Users\\Jose\\.nuget\\packages\\microsoft.aspnetcore.authentication.core\\2.2.0\\microsoft.aspnetcore.authentication.core.2.2.0.nupkg.sha512",

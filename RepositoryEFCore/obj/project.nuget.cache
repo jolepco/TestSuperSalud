@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "gq8xLyOhQI8FMiDpgQn40FPq1SwcN8hNycFfVoMxFAC8RAbU6TTqWt8FqQdKSv+Ffx5o/K447cRX+DODBEsReg==",
+  "dgSpecHash": "PAEagqWjFZqW9nICKQexunton0jCuaDT0bV6gZ9SY/Tuo6A5OE7JJ2NOoduAhETUgMhhWscjzGMBUaY/PpIf4Q==",
   "success": true,
-  "projectFilePath": "C:\\Users\\Jose\\OneDrive - uniminuto.edu\\Documentos\\Aplicaciones\\Aprender\\pruebaminsalud\\RepositoryEFCore\\RepositoryEFCore.csproj",
+  "projectFilePath": "C:\\Users\\Jose\\OneDrive - uniminuto.edu\\Documentos\\Aplicaciones\\Aprender\\supersalud\\TestSuperSalud\\RepositoryEFCore\\RepositoryEFCore.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Jose\\.nuget\\packages\\azure.core\\1.24.0\\azure.core.1.24.0.nupkg.sha512",
     "C:\\Users\\Jose\\.nuget\\packages\\azure.identity\\1.6.0\\azure.identity.1.6.0.nupkg.sha512",

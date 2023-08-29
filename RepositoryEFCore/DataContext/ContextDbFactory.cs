@@ -14,7 +14,7 @@ namespace RepositoryEFCore.DataContext
         {
             var optionBuilder = new DbContextOptionsBuilder<DataContexDb>();
             optionBuilder.UseSqlServer(
-                "Server=JOSEP; database = aprendercleanArq; user id = sa; password = j.8916;TrustServerCertificate=True");
+                "Server=JOSEP; database = SupercleanArq; user id = sa; password = j.8916;TrustServerCertificate=True");
             return new DataContexDb(optionBuilder.Options);
         }
     }

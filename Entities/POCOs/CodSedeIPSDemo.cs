@@ -8,7 +8,7 @@ namespace Entities.POCOs
 {
     public  class CodSedeIPSDemo
     {
-        public int IdCodSedeIPSDemo { get; set; }
+        public string IdCodSedeIPSDemo { get; set; }
         public string Nombre { get; set; }
     }
 }

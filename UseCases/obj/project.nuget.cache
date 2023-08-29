@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "eUepFO6LNMQZVhjBo4OZNHsV3xHk3Hwvj6MCjygAW7yW8FzJpMOKVyzbuLXrgzRI/NP+BO50bCr64+8dozrHhQ==",
+  "dgSpecHash": "uAasUY+R8l+L6by1oEN6g4KwoSseLtGMwfT5LjZxkYvUn3moBCYwCym8Zduw7JNHIo+r8Rt3Q0h1+F5GgjFWdw==",
   "success": true,
-  "projectFilePath": "C:\\Users\\Jose\\OneDrive - uniminuto.edu\\Documentos\\Aplicaciones\\Aprender\\pruebaminsalud\\UseCases\\UseCases.csproj",
+  "projectFilePath": "C:\\Users\\Jose\\OneDrive - uniminuto.edu\\Documentos\\Aplicaciones\\Aprender\\supersalud\\TestSuperSalud\\UseCases\\UseCases.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Jose\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\7.0.0\\microsoft.extensions.dependencyinjection.abstractions.7.0.0.nupkg.sha512"
   ],
